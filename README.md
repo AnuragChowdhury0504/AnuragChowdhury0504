@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Anurag Chowdhury (@AnuragChowdhury0504)
-
+## 🙏🙏 āno bhadra krtavo yantu vishwatah 🙏🙏
 ### 👀 I’m interested in:
 - Machine Learning & Deep Learning
 - Cloud Deployments (AWS, Azure)
