@@ -18,7 +18,7 @@
 
 ### 📫 How to reach me:
 - Email: anuragchowdhury0504@gmail.com
-- LinkedIn: [Anurag Chowdhury](https://www.linkedin.com/in/anuragchowdhury)
+- LinkedIn: [Anurag Chowdhury](linkedin.com/in/anurag-chowdhury-a5622b240)
 - GitHub: [AnuragChowdhury0504](https://github.com/AnuragChowdhury0504)
 
 ### 😄 Pronouns:
